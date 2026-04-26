@@ -1,0 +1,5 @@
+export const ORACLE_SETTINGS = {
+    STAKE_REQUIRED: "500 LINK",
+    VALIDITY_WINDOW: "5 minutes",
+    AGGREGATION_METHOD: "MEDIAN"
+};

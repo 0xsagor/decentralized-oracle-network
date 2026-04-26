@@ -1,0 +1,10 @@
+{
+  "name": "decentralized-oracle-network",
+  "version": "1.0.0",
+  "description": "Custom data oracle with median aggregation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "axios": "^1.6.0",
+    "ethers": "^6.10.0"
+  }
+}
